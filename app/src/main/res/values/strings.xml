@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="setting">Settings</string>
+
+    <string name="sort_popular">Sort by Most Popular</string>
+    <string name="sort_rating">Sort by Highest Rated</string>
+    <string name="image_descr">Image</string>
+
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+    <string name="date">Date</string>
+    <string name="overview">Overview</string>
+
+    <string name="rating_txt">Rating: </string>
+    <string name="date_txt">Release Date: </string>
+</resources>
